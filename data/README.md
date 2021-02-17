@@ -1,0 +1,1 @@
+En esta carpeta se ponen los archivos CSV para que los reconozca la aplicación.
