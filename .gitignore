@@ -1,7 +1,8 @@
 .DS_Store
 node_modules
-db/
+
 dataMasters/
 data/*
+!data/ingeominas/
 !*/.gitkeep
 !*/README.md
